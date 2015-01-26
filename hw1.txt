@@ -19,10 +19,15 @@ Part (d):
 
 Problem 2
 Part (a):
+1. Git Bash(Windows)
+3. Terminal
 
 Part (b):
 1. git add hw1q2b.cpp
 2. git log
 
 Part (c):
-git will abort the commit due to an empty commit message. if the command is commit -m "message" then all three files will be committed with the message, "message"
+git will abort the commit due to an empty commit message. if the command is git commit -m "message" then all three files will be committed with the message, "message"
+
+
+
